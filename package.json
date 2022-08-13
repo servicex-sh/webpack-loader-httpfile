@@ -2,6 +2,7 @@
   "name": "webpack-loader-httpfile",
   "version": "0.1.0",
   "description": "Webpack loader for http file",
+  "homepage": "https://servicex.sh",
   "main": "index.js",
   "scripts": {
     "test": "webpack ; node dist/main.bundle.js"

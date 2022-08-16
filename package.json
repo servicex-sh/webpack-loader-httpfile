@@ -1,6 +1,6 @@
 {
   "name": "webpack-loader-httpfile",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Webpack loader for http file",
   "homepage": "https://servicex.sh",
   "main": "index.js",
